@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "root@f94ab959f35a:/alx-system_engineering-devops/0x00-shell_basics"
+chmod 755 root@f94ab959f35a:/alx-system_engineering-devops/0x00-shell_basics
+./root@f94ab959f35a:/alx-system_engineering-devops/0x00-shell_basics
+
